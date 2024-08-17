@@ -1,6 +1,6 @@
 streamlit
 Pillow
 pickle
-sklearn
+scikit-learn
 pandas
 xgboost
