@@ -1,0 +1,6 @@
+streamlit
+Pillow
+pickle
+scikit-learn
+pandas
+xgboost
